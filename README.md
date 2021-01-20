@@ -29,34 +29,34 @@ In conclusion, the mice given Capomulin showed improvement in symptoms, while th
 
 
 
-#Panda
+## Pandas Bar 
 ![Panda BAR](Images/Pan_mice_per_treat.png)
 
-#Pyplot
+## Pyplot Bar 
 ![Pyplot Bar](Images/mat_mice_per_treat.png)
 
  
 
-#Panda
+## Pandas
 ![Panda Pie](Images/pi_pandas.png)
 
-#Pyplot
+## Pyplot
 ![Pyplot Bar](Images/pi_plot.png)
 
 
 
-#Box & Whisper 
+## Box & Whisper 
 ![Box & Whisper](Images/box_plot.png)
 
   
 
-#Scatter Plot
+## Scatter Plot
 
 ![Scatter Plot](Images/scatterplot.png)
 
 
 
-#Liner Regression 
+## Liner Regression 
 
 ![Liner Regression](Images/linear_regression.png)
 
@@ -68,6 +68,3 @@ In conclusion, the mice given Capomulin showed improvement in symptoms, while th
 
 
 
-### Copyright
-
-Trilogy Education Services © 2020. All Rights Reserved.
