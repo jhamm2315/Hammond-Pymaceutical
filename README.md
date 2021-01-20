@@ -37,10 +37,10 @@ In conclusion, the mice given Capomulin showed improvement in symptoms, while th
 
  
 
-## Pandas
+## Pandas Pie
 ![Panda Pie](Images/pi_pandas.png)
 
-## Pyplot
+## Pyplot Pie 
 ![Pyplot Bar](Images/pi_plot.png)
 
 
@@ -62,9 +62,6 @@ In conclusion, the mice given Capomulin showed improvement in symptoms, while th
 
 
 
-#Mouse G316
+## Mouse G316
 
 ![Mouseg316](Images/line_graph.png)
-
-
-
